@@ -11,6 +11,8 @@ python-dotenv
 # Database
 
 
+sqlalchemy
+
 
 # Logging & Monitoring
 prometheus_client
