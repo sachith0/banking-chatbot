@@ -9,7 +9,7 @@ requests
 python-dotenv
 
 # Database
-sqlite3
+
 sqlalchemy
 
 # Logging & Monitoring
